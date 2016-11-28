@@ -17,3 +17,12 @@ SourceTree-----本地文件和服务器文件冲突解决办法 (2013-09-11 12:2
 
 虽然这个办法很简单，但最近有朋友问到了，索性就写下来。
 说不定可以帮到一些朋友呢SourceTree-----本地文件和服务器文件冲突解决办法
+
+Hunk is related to diff in git.
+Reverse Hunk:
+Some gui has revert changes option but that applies to the whole file.
+There is an option to revert a line or hunk rather than the whole file.
+You can Reverse file changes made to a file in a commit, undoing them in your working copy. This is more selective than resetting the entire file back to a previous point.
+
+Stage Hunk:
+Hunk means a piece of change in the Git world. Stage hunk means it is being added to the staging area.
