@@ -26,3 +26,5 @@ You can Reverse file changes made to a file in a commit, undoing them in your wo
 
 Stage Hunk:
 Hunk means a piece of change in the Git world. Stage hunk means it is being added to the staging area.
+
+又增加了一行
